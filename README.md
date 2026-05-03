@@ -5,21 +5,31 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codeSubhajit0&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🎯 Building **full-stack software products**
-* 🧠 Deep diving into **backend systems & APIs**
-* ⚡ Focused on **clean UI + scalable architecture**
-* 🔄 Transitioning from **Frontend → Full Stack**
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/fluency/20/goal.png"/></td>
+    <td>Building full-stack software products</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/fluency/20/brain.png"/></td>
+    <td>Deeply exploring backend systems and APIs</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/fluency/20/source-code.png"/></td>
+    <td>Focused on clean UI and scalable architecture</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/fluency/20/synchronize.png"/></td>
+    <td>Transitioning from frontend development to full stack</td>
+  </tr>
+</table>
 
 ---
 
@@ -64,9 +74,6 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codeSubhajit0&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
-
-
 
 ---
 
