@@ -37,7 +37,7 @@
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 💻 Languages
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -66,7 +66,7 @@
 </p>
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codeSubhajit0&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
